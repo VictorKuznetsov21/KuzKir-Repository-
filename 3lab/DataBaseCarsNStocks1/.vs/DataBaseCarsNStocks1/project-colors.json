@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d82bcf7e-66ea-45b2-96ac-9fb2a0f14657": {
+      "ProjectGuid": "d82bcf7e-66ea-45b2-96ac-9fb2a0f14657",
+      "DisplayName": "DataBaseCarsNStocks",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
